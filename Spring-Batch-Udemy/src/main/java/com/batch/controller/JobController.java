@@ -32,6 +32,7 @@ public class JobController {
 	
 	@GetMapping("/stop/{jobExecutionId}")
 	public String stopJob(@PathVariable long jobExecutionId) {
+		System.out.println("jobExecutionId : "+jobExecutionId);
 		try {
 			jobOperator.stop(jobExecutionId);
 		} catch (Exception e) {
