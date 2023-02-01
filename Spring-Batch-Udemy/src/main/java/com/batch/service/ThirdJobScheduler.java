@@ -30,10 +30,9 @@ public class ThirdJobScheduler {
 		params.put("currentTime", new JobParameter(System.currentTimeMillis()));
 		
 		JobParameters jobParameters =new JobParameters(params);
-		
 		try {
-				JobExecution jobExecution=jobLauncher.run(thirdJob, jobParameters);
-			System.out.println("jobExecution ID : "+jobExecution.getId());
+			JobExecution jobExecution = jobLauncher.run(thirdJob, jobParameters);
+			System.out.println("jobExecution ID : " + jobExecution.getId());
 		} catch (Exception e) {
 			e.printStackTrace();
 		}

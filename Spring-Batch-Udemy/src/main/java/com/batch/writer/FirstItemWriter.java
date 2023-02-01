@@ -10,7 +10,7 @@ public class FirstItemWriter implements ItemWriter<Long> {
 
 	@Override
 	public void write(List<? extends Long> items) throws Exception {
-		System.out.println(" Going to write item ");
+		System.out.println("Inside FirstItemWriter class");
 		items.stream().forEach(System.out::println);
 	}
 

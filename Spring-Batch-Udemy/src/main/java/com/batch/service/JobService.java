@@ -53,8 +53,11 @@ public class JobService {
 			} else if (jobName.equals("Second Job")) {
 				jobExecution=jobLauncher.run(secondJob, jobParameters);
 			}
-			if (jobName.equals("Third Job")) {
+			else if (jobName.equals("Third Job")) {
 				jobExecution=jobLauncher.run(thirdJob, jobParameters);
+			}else {
+					System.out.println("No Matching Job Name found.....");
+					return;
 			}
 			System.out.println("jobExecution ID : "+jobExecution.getId());
 		} catch (Exception e) {

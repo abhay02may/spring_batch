@@ -2,7 +2,7 @@ package com.batch.controller;
 
 import java.util.List;
 
-import org.springframework.batch.core.launch.JobOperator;
+/*import org.springframework.batch.core.launch.JobOperator;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
@@ -11,13 +11,15 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.batch.model.JobParamRequest;
-import com.batch.service.JobService;
+import com.batch.service.JobService;*/
 
-@RestController
-@RequestMapping("/api/job")
+//@RestController
+//@RequestMapping("/api/job")
+
+// To enable this class , please uncomment the spring-boot-starter-web in the pom
 public class JobController {
 	
-	@Autowired
+	/*@Autowired
 	private JobService jobService;
 	
 	@Autowired
@@ -39,6 +41,6 @@ public class JobController {
 			e.printStackTrace();
 		}		
 		return "Job stopped.....";
-	}
+	}*/
 
 }
