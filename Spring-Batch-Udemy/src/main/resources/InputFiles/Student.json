@@ -1,0 +1,63 @@
+[
+	{
+		"studentId": 1,
+		"firstName":"Abhay",
+		"lastName":"Srivastava",
+		"email":"abhay@Gmail.com"
+	},
+	{
+		"studentId": 2,
+		"firstName":"Vinod",
+		"lastName":"Rai",
+		"email":"vinod@Gmail.com"
+	},
+	{
+		"studentId": 3,
+		"firstName":"Prashant",
+		"lastName":"Verma",
+		"email":"prashant@Gmail.com"
+	},
+	{
+		"studentId": 4,
+		"firstName":"Ajit",
+		"lastName":"Singh",
+		"email":"ajit@Gmail.com"
+	},
+	{
+		"studentId": 5,
+		"firstName":"Juhi",
+		"lastName":"Srivastava",
+		"email":"juhi@Gmail.com"
+	},
+	{
+		"studentId": 6,
+		"firstName":"Priyanka",
+		"lastName":"Srivastava",
+		"email":"priyanka@Gmail.com"
+	},
+	{
+		"studentId": 7,
+		"firstName":"Tushar",
+		"lastName":"Tiwari",
+		"email":"tushar@Gmail.com"
+	},
+	{
+		"studentId": 8,
+		"firstName":"Ashish",
+		"lastName":"Manik",
+		"email":"ashish@Gmail.com"
+	},
+	{
+		"studentId": 9,
+		"firstName":"Nitin",
+		"lastName":"Mishra",
+		"email":"nitin@Gmail.com"
+	},
+	{
+		"studentId": 10,
+		"firstName":"Dewanshu",
+		"lastName":"Singhal",
+		"email":"dewanshu@Gmail.com"
+	}
+	
+]

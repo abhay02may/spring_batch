@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+
+	<student>
+		<studentId>1</studentId>
+		<firstName>Abhay</firstName>
+		<lastName>Srivastava</lastName>
+		<email>abhay@gmail.com</email>
+	</student>
+	<student>
+		<studentId>2</studentId>
+		<firstName>Vinod</firstName>
+		<lastName>Rai</lastName>
+		<email>vinod@gmail.com</email>
+	</student>
+	<student>
+		<studentId>3</studentId>
+		<firstName>Prashant</firstName>
+		<lastName>Verma</lastName>
+		<email>prashant@gmail.com</email>
+	</student>
+	<student>
+		<studentId>4</studentId>
+		<firstName>Ajit</firstName>
+		<lastName>Singh</lastName>
+		<email>ajit@gmail.com</email>
+	</student>
+	<student>
+		<studentId>5</studentId>
+		<firstName>Juhi</firstName>
+		<lastName>Srivastava</lastName>
+		<email>juhi@gmail.com</email>
+	</student>
+	<student>
+		<studentId>6</studentId>
+		<firstName>Priyanka</firstName>
+		<lastName>Srivastava</lastName>
+		<email>priyanka@gmail.com</email>
+	</student>
+	<student>
+		<studentId>7</studentId>
+		<firstName>Tushar</firstName>
+		<lastName>Tiwari</lastName>
+		<email>tushar@gmail.com</email>
+	</student>
+	<student>
+		<studentId>8</studentId>
+		<firstName>Nitin</firstName>
+		<lastName>Mishra</lastName>
+		<email>nitin@gmail.com</email>
+	</student>
+	<student>
+		<studentId>9</studentId>
+		<firstName>Naveen</firstName>
+		<lastName>Kumar</lastName>
+		<email>naveen@gmail.com</email>
+	</student>
+	<student>
+		<studentId>10</studentId>
+		<firstName>Dewanshu</firstName>
+		<lastName>Singhal</lastName>
+		<email>dewanshu@gmail.com</email>
+	</student>
+
+
+</students>
